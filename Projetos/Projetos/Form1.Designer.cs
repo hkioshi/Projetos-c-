@@ -30,6 +30,7 @@
         {
             btnCalculadora = new Button();
             btnGeradorSenha = new Button();
+            btnParOuImpar = new Button();
             SuspendLayout();
             // 
             // btnCalculadora
@@ -52,11 +53,22 @@
             btnGeradorSenha.UseVisualStyleBackColor = true;
             btnGeradorSenha.Click += btnGeradorSenha_Click;
             // 
+            // btnParOuImpar
+            // 
+            btnParOuImpar.Location = new Point(12, 148);
+            btnParOuImpar.Name = "btnParOuImpar";
+            btnParOuImpar.Size = new Size(151, 62);
+            btnParOuImpar.TabIndex = 2;
+            btnParOuImpar.Text = "Par ou Impar";
+            btnParOuImpar.UseVisualStyleBackColor = true;
+            btnParOuImpar.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnParOuImpar);
             Controls.Add(btnGeradorSenha);
             Controls.Add(btnCalculadora);
             Name = "Form1";
@@ -68,5 +80,6 @@
 
         private Button btnCalculadora;
         private Button btnGeradorSenha;
+        private Button btnParOuImpar;
     }
 }

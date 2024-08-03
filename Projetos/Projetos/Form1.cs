@@ -18,5 +18,11 @@ namespace Projetos
             Gerador_De_Senha d = new Gerador_De_Senha();
             d.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ParOuImpar d = new ParOuImpar();
+            d.ShowDialog();
+        }
     }
 }
