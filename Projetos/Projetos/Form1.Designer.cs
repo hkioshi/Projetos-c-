@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             btnCalculadora = new Button();
+            btnGeradorSenha = new Button();
             SuspendLayout();
             // 
             // btnCalculadora
@@ -41,11 +42,22 @@
             btnCalculadora.UseVisualStyleBackColor = true;
             btnCalculadora.Click += btnCalculadora_Click;
             // 
+            // btnGeradorSenha
+            // 
+            btnGeradorSenha.Location = new Point(12, 80);
+            btnGeradorSenha.Name = "btnGeradorSenha";
+            btnGeradorSenha.Size = new Size(151, 62);
+            btnGeradorSenha.TabIndex = 1;
+            btnGeradorSenha.Text = "Gerador De Senha";
+            btnGeradorSenha.UseVisualStyleBackColor = true;
+            btnGeradorSenha.Click += btnGeradorSenha_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnGeradorSenha);
             Controls.Add(btnCalculadora);
             Name = "Form1";
             Text = "Form1";
@@ -55,5 +67,6 @@
         #endregion
 
         private Button btnCalculadora;
+        private Button btnGeradorSenha;
     }
 }
