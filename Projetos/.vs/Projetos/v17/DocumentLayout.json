@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\validador de cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\validador de cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\validador de cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\validador de cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\validador de cpf.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\validador de cpf.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\gerador_de_senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\gerador_de_senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\gerador_de_senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\gerador_de_senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\gerador_de_senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\gerador_de_senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,31 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ParOuImpar.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\ParOuImpar.cs",
-              "RelativeDocumentMoniker": "Projetos\\ParOuImpar.cs",
-              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\ParOuImpar.cs [Projeto]",
-              "RelativeToolTip": "Projetos\\ParOuImpar.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T18:36:28.279Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Gerador_De_Senha.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Gerador_De_Senha.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Gerador_De_Senha.cs",
               "RelativeDocumentMoniker": "Projetos\\Gerador_De_Senha.cs",
-              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Gerador_De_Senha.cs [Design]",
-              "RelativeToolTip": "Projetos\\Gerador_De_Senha.cs [Design]",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Gerador_De_Senha.cs [Projeto]",
+              "RelativeToolTip": "Projetos\\Gerador_De_Senha.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T17:01:08.97Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
@@ -80,26 +84,91 @@
               "RelativeDocumentMoniker": "Projetos\\Calculadora.cs",
               "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Calculadora.cs",
               "RelativeToolTip": "Projetos\\Calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T15:47:24.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Validador de CPF.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Validador de CPF.Designer.cs",
+              "RelativeDocumentMoniker": "Projetos\\Validador de CPF.Designer.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Validador de CPF.Designer.cs",
+              "RelativeToolTip": "Projetos\\Validador de CPF.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:21:35.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs",
+              "RelativeDocumentMoniker": "Projetos\\Form1.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs",
+              "RelativeToolTip": "Projetos\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:28:04.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validador de CPF.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Validador de CPF.cs",
+              "RelativeDocumentMoniker": "Projetos\\Validador de CPF.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Validador de CPF.cs",
+              "RelativeToolTip": "Projetos\\Validador de CPF.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:19:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPF.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\CPF.cs",
+              "RelativeDocumentMoniker": "Projetos\\CPF.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\CPF.cs",
+              "RelativeToolTip": "Projetos\\CPF.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:37:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validador de CPF.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Validador de CPF.cs",
+              "RelativeDocumentMoniker": "Projetos\\Validador de CPF.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Validador de CPF.cs [Projeto]",
+              "RelativeToolTip": "Projetos\\Validador de CPF.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:13:19.489Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Sistema.cs",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Sistema.cs",
               "RelativeDocumentMoniker": "Projetos\\Sistema.cs",
               "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Sistema.cs",
               "RelativeToolTip": "Projetos\\Sistema.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCMAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:31:08.46Z"
+              "WhenOpened": "2024-08-03T15:31:08.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs",
               "RelativeDocumentMoniker": "Projetos\\Form1.cs",
@@ -111,33 +180,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs",
-              "RelativeDocumentMoniker": "Projetos\\Form1.cs",
-              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs",
-              "RelativeToolTip": "Projetos\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "DocumentIndex": 9,
+              "Title": "ParOuImpar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\ParOuImpar.cs",
+              "RelativeDocumentMoniker": "Projetos\\ParOuImpar.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\ParOuImpar.cs [Projeto]",
+              "RelativeToolTip": "Projetos\\ParOuImpar.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:28:04.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T18:36:28.279Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ParOuImpar.cs",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\ParOuImpar.cs",
               "RelativeDocumentMoniker": "Projetos\\ParOuImpar.cs",
               "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\ParOuImpar.cs",
               "RelativeToolTip": "Projetos\\ParOuImpar.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T18:39:03.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Gerador_De_Senha.cs",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Gerador_De_Senha.cs",
               "RelativeDocumentMoniker": "Projetos\\Gerador_De_Senha.cs",
@@ -150,15 +218,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Calculadora.cs [Design]",
+              "DocumentIndex": 11,
+              "Title": "Calculadora.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Calculadora.cs",
               "RelativeDocumentMoniker": "Projetos\\Calculadora.cs",
-              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Calculadora.cs [Design]",
-              "RelativeToolTip": "Projetos\\Calculadora.cs [Design]",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Calculadora.cs [Projeto]",
+              "RelativeToolTip": "Projetos\\Calculadora.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T15:29:14.011Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             }
           ]
         }

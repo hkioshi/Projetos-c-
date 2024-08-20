@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace Projetos
 {
     public partial class Form1 : Form
@@ -23,6 +25,18 @@ namespace Projetos
         {
             ParOuImpar d = new ParOuImpar();
             d.ShowDialog();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Validador_de_CPF a = new Validador_de_CPF();
+            a.ShowDialog();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
