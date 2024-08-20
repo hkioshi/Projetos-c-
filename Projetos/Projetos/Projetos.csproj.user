@@ -7,6 +7,9 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Gerador de CPF Valido.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Gerador_De_Senha.cs">
       <SubType>Form</SubType>
     </Compile>

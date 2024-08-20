@@ -36,7 +36,8 @@ namespace Projetos
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Gerador_de_CPF_Valido a = new Gerador_de_CPF_Valido();
+            a.ShowDialog();
         }
     }
 }

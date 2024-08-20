@@ -32,7 +32,7 @@
             btnGeradorSenha = new Button();
             btnParOuImpar = new Button();
             btnCPF = new Button();
-            btn = new Button();
+            btnGerarCPF = new Button();
             SuspendLayout();
             // 
             // btnCalculadora
@@ -75,22 +75,22 @@
             btnCPF.UseVisualStyleBackColor = true;
             btnCPF.Click += button1_Click_1;
             // 
-            // btn
+            // btnGerarCPF
             // 
-            btn.Location = new Point(12, 284);
-            btn.Name = "btn";
-            btn.Size = new Size(151, 62);
-            btn.TabIndex = 4;
-            btn.Text = "coisa";
-            btn.UseVisualStyleBackColor = true;
-            btn.Click += button2_Click;
+            btnGerarCPF.Location = new Point(12, 284);
+            btnGerarCPF.Name = "btnGerarCPF";
+            btnGerarCPF.Size = new Size(151, 62);
+            btnGerarCPF.TabIndex = 4;
+            btnGerarCPF.Text = "GerarCPF";
+            btnGerarCPF.UseVisualStyleBackColor = true;
+            btnGerarCPF.Click += button2_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(btn);
+            Controls.Add(btnGerarCPF);
             Controls.Add(btnCPF);
             Controls.Add(btnParOuImpar);
             Controls.Add(btnGeradorSenha);
@@ -106,6 +106,6 @@
         private Button btnGeradorSenha;
         private Button btnParOuImpar;
         private Button btnCPF;
-        private Button btn;
+        private Button btnGerarCPF;
     }
 }
