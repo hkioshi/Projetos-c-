@@ -55,3 +55,4 @@ C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\bin\Debug\net8
 C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.csproj.Up2Date
 C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.Validador_de_CPF.resources
 C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.Gerador_de_CPF_Valido.resources
+C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.Bolinha.resources

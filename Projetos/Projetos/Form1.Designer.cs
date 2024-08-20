@@ -33,6 +33,7 @@
             btnParOuImpar = new Button();
             btnCPF = new Button();
             btnGerarCPF = new Button();
+            btnColorir = new Button();
             SuspendLayout();
             // 
             // btnCalculadora
@@ -85,11 +86,22 @@
             btnGerarCPF.UseVisualStyleBackColor = true;
             btnGerarCPF.Click += button2_Click;
             // 
+            // btnColorir
+            // 
+            btnColorir.Location = new Point(12, 352);
+            btnColorir.Name = "btnColorir";
+            btnColorir.Size = new Size(151, 62);
+            btnColorir.TabIndex = 5;
+            btnColorir.Text = "Bolinha";
+            btnColorir.UseVisualStyleBackColor = true;
+            btnColorir.Click += btnColorir_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnColorir);
             Controls.Add(btnGerarCPF);
             Controls.Add(btnCPF);
             Controls.Add(btnParOuImpar);
@@ -107,5 +119,6 @@
         private Button btnParOuImpar;
         private Button btnCPF;
         private Button btnGerarCPF;
+        private Button btnColorir;
     }
 }

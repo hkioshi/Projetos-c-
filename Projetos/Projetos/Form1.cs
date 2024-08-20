@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Windows.Forms;
 
 namespace Projetos
 {
@@ -38,6 +39,15 @@ namespace Projetos
         {
             Gerador_de_CPF_Valido a = new Gerador_de_CPF_Valido();
             a.ShowDialog();
+        }
+
+        private void btnColorir_Click(object sender, EventArgs e)
+        {
+            Bolinha bolinha = new Bolinha();    
+            bolinha.ShowDialog();
+
+
+            
         }
     }
 }
