@@ -40,6 +40,7 @@ namespace Projetos
             else
             {
                 lblValidar.Text = "CPF não Valido";
+                txtCPF.Text = "";
             }
         }
     }

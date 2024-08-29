@@ -23,12 +23,12 @@ namespace Projetos
 
         private void btnCriarBola_Click(object sender, EventArgs e)
         {
-          
+            
 
             // Desenhar o ponto como uma elipse
 
 
-            g.FillEllipse(brush, this.Width / 2, this.Height / 2, 80, 80);
+            g.FillEllipse(brush, this.Width / 3, this.Height / 2, 80, 80);
             Thread.Sleep(1000);
             this.Refresh();
         }

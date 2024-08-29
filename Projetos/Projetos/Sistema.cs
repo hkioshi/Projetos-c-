@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
 using Newtonsoft.Json;
 
 namespace Projetos
@@ -42,6 +43,41 @@ namespace Projetos
             return new string(array);
 
 
+        }
+
+        public static void SQL_ALL(ListBox list,MySqlConnection conexao, string tabela)
+        {
+            try
+            {
+                conexao.Open();
+
+                string query = $"SELECT * FROM {tabela}";
+                MySqlCommand cmd = new MySqlCommand(query, conexao);
+                
+                MySqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string temp = "";
+                    for (int i = 0; i < reader.FieldCount; i++)
+                    {
+                        temp += reader[i].ToString();
+                        if (i < reader.FieldCount - 1)
+                            temp += " | ";
+                    }
+                    list.Items.Add(temp);
+                }
+
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro: " + ex.Message);
+            }
+            finally
+            {
+                conexao.Close();
+            }
         }
 
         

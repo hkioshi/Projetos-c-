@@ -43,11 +43,13 @@ namespace Projetos
 
         private void btnColorir_Click(object sender, EventArgs e)
         {
-            Bolinha bolinha = new Bolinha();    
+            Bolinha bolinha = new Bolinha();
             bolinha.ShowDialog();
-
-
-            
+        }
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            BancoDeDados bancoDeDados = new BancoDeDados();
+            bancoDeDados.ShowDialog();
         }
     }
 }

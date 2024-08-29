@@ -34,6 +34,7 @@
             btnCPF = new Button();
             btnGerarCPF = new Button();
             btnColorir = new Button();
+            btnDB = new Button();
             SuspendLayout();
             // 
             // btnCalculadora
@@ -96,11 +97,22 @@
             btnColorir.UseVisualStyleBackColor = true;
             btnColorir.Click += btnColorir_Click;
             // 
+            // btnDB
+            // 
+            btnDB.Location = new Point(169, 12);
+            btnDB.Name = "btnDB";
+            btnDB.Size = new Size(151, 62);
+            btnDB.TabIndex = 6;
+            btnDB.Text = "Banco de dados";
+            btnDB.UseVisualStyleBackColor = true;
+            btnDB.Click += button1_Click_2;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnDB);
             Controls.Add(btnColorir);
             Controls.Add(btnGerarCPF);
             Controls.Add(btnCPF);
@@ -120,5 +132,6 @@
         private Button btnCPF;
         private Button btnGerarCPF;
         private Button btnColorir;
+        private Button btnDB;
     }
 }

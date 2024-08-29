@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\conector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\conector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|c:\\users\\hkios\\source\\repos\\hkioshi\\projetos-c-\\projetos\\projetos\\bolinha.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBA82B7-3EBF-4EC8-84AF-BA10E877E946}|Projetos\\Projetos.csproj|solutionrelative:projetos\\bolinha.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bolinha.cs",
-              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.cs",
-              "RelativeDocumentMoniker": "Projetos\\Bolinha.cs",
-              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.cs",
-              "RelativeToolTip": "Projetos\\Bolinha.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:05:31.093Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -50,20 +61,110 @@
               "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs [Projeto]",
               "RelativeToolTip": "Projetos\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:04:48.81Z",
+              "WhenOpened": "2024-08-29T19:56:11.647Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CPF.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\CPF.cs",
+              "RelativeDocumentMoniker": "Projetos\\CPF.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\CPF.cs",
+              "RelativeToolTip": "Projetos\\CPF.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:36:37.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Sistema.cs",
+              "RelativeDocumentMoniker": "Projetos\\Sistema.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Sistema.cs",
+              "RelativeToolTip": "Projetos\\Sistema.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:35:54.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conector.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Conector.cs",
+              "RelativeDocumentMoniker": "Projetos\\Conector.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Conector.cs",
+              "RelativeToolTip": "Projetos\\Conector.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:28:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\BancoDeDados.cs",
+              "RelativeDocumentMoniker": "Projetos\\BancoDeDados.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\BancoDeDados.cs",
+              "RelativeToolTip": "Projetos\\BancoDeDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:27:26.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BancoDeDados.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\BancoDeDados.cs",
+              "RelativeDocumentMoniker": "Projetos\\BancoDeDados.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\BancoDeDados.cs [Projeto]",
+              "RelativeToolTip": "Projetos\\BancoDeDados.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:26:57.52Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bolinha.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.cs",
+              "RelativeDocumentMoniker": "Projetos\\Bolinha.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.cs",
+              "RelativeToolTip": "Projetos\\Bolinha.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:17:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Bolinha.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.cs",
               "RelativeDocumentMoniker": "Projetos\\Bolinha.cs",
               "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.cs [Projeto]",
               "RelativeToolTip": "Projetos\\Bolinha.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:04:19.993Z",
+              "WhenOpened": "2024-08-21T13:17:46.315Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bolinha.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.Designer.cs",
+              "RelativeDocumentMoniker": "Projetos\\Bolinha.Designer.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Bolinha.Designer.cs",
+              "RelativeToolTip": "Projetos\\Bolinha.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:17:43.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +174,9 @@
               "RelativeDocumentMoniker": "Projetos\\Form1.cs",
               "ToolTip": "C:\\Users\\hkios\\source\\repos\\hkioshi\\Projetos-c-\\Projetos\\Projetos\\Form1.cs",
               "RelativeToolTip": "Projetos\\Form1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAewDEAAAAMAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vzMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:28:04.334Z",
+              "WhenOpened": "2024-08-21T13:17:34.181Z",
               "EditorCaption": ""
             }
           ]
