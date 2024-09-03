@@ -70,3 +70,5 @@ C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\bin\Debug\net8
 C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.BancoDeDados.resources
+C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.Login.resources
+C:\Users\hkios\source\repos\hkioshi\Projetos-c-\Projetos\Projetos\obj\Debug\net8.0-windows\Projetos.Cadastro.resources

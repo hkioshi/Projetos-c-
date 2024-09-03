@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Newtonsoft.Json;
@@ -13,7 +14,6 @@ namespace Projetos
     {
         public static bool TryParse<T1, T2>(T1 t1, out T2 t2)
         {
-
             try
             {
                 t2 = (T2)Convert.ChangeType(t1, typeof(T2));
@@ -45,42 +45,18 @@ namespace Projetos
 
         }
 
-        public static void SQL_ALL(ListBox list,MySqlConnection conexao, string tabela)
+        public static bool ValidarEmail(string email)
         {
-            try
-            {
-                conexao.Open();
-
-                string query = $"SELECT * FROM {tabela}";
-                MySqlCommand cmd = new MySqlCommand(query, conexao);
-                
-                MySqlDataReader reader = cmd.ExecuteReader();
-
-                while (reader.Read())
-                {
-                    string temp = "";
-                    for (int i = 0; i < reader.FieldCount; i++)
-                    {
-                        temp += reader[i].ToString();
-                        if (i < reader.FieldCount - 1)
-                            temp += " | ";
-                    }
-                    list.Items.Add(temp);
-                }
-
-                reader.Close();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Erro: " + ex.Message);
-            }
-            finally
-            {
-                conexao.Close();
-            }
+            string padrao = @"\@[a-z]+\.[a-z]+(\.[a-z]+)?";
+            return Regex.IsMatch(email, padrao)? true: false;
+            
         }
+        public static bool ValidarTelefone(string tel)
+        {
+            string padrao = @"\d{2}9\d{8}";
+            return Regex.IsMatch(tel, padrao) ? true : false;
 
-        
+        }
 
     }
 }

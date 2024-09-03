@@ -20,7 +20,7 @@ namespace Projetos
         private void BancoDeDados_Load(object sender, EventArgs e)
         {
             Conector conector = new Conector("world");
-            Sistema.SQL_ALL(LstBanco ,conector.conexao, "country");
+            conector.SQL_ALL(LstBanco , "country");
 
         }
     }

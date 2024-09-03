@@ -51,5 +51,11 @@ namespace Projetos
             BancoDeDados bancoDeDados = new BancoDeDados();
             bancoDeDados.ShowDialog();
         }
+
+        private void btnSistema_loja_Click(object sender, EventArgs e)
+        {
+            Login sistema_De_Loja = new Login();
+            sistema_De_Loja.ShowDialog();
+        }
     }
 }

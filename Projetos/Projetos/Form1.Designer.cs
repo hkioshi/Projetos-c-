@@ -35,6 +35,7 @@
             btnGerarCPF = new Button();
             btnColorir = new Button();
             btnDB = new Button();
+            btnLogin = new Button();
             SuspendLayout();
             // 
             // btnCalculadora
@@ -107,11 +108,22 @@
             btnDB.UseVisualStyleBackColor = true;
             btnDB.Click += button1_Click_2;
             // 
+            // btnLogin
+            // 
+            btnLogin.Location = new Point(169, 80);
+            btnLogin.Name = "btnLogin";
+            btnLogin.Size = new Size(151, 62);
+            btnLogin.TabIndex = 7;
+            btnLogin.Text = "Sistema de Login";
+            btnLogin.UseVisualStyleBackColor = true;
+            btnLogin.Click += btnSistema_loja_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnLogin);
             Controls.Add(btnDB);
             Controls.Add(btnColorir);
             Controls.Add(btnGerarCPF);
@@ -133,5 +145,6 @@
         private Button btnGerarCPF;
         private Button btnColorir;
         private Button btnDB;
+        private Button btnLogin;
     }
 }
